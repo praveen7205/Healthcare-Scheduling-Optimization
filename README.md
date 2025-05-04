@@ -94,9 +94,9 @@ This project analyzes historical patient appointment data to:
 
 ## 📬 Contact
 
-Created by [Your Name]  
-🔗 LinkedIn: [YourProfile](https://www.linkedin.com/)  
-📧 Email: yourname@example.com
+Created by Praveen S 
+🔗 LinkedIn: https://www.linkedin.com/in/praveen-s 
+📧 Email:praveensp070205@gmail.com
 
 ---
 
